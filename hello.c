@@ -2,7 +2,7 @@
 *Author: Andrew Lunde
 *Date 2020/06/08
 *Collaborators: Nathan Liew
-*Email : wliew@unl.edu
+*Email : wliew@unl.edu, alunde2@unl.edu
 *A simple hello world program in C
 */
 
