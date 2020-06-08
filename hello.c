@@ -5,5 +5,5 @@ int main(void){
   printf("Andrew Lunde\n");
   printf("Computer Engineering\n");
 
-  reutrn 0;
+  return 0;
 }
